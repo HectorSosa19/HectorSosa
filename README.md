@@ -3,8 +3,8 @@
 # 👨‍💻 Héctor Sosa
 ### Ingeniero de Software · Backend & Frontend
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/hector-j-sosa-a81a6321b/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hectorsosa931@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tu-portfolio.com)
 
 </div>
@@ -13,13 +13,13 @@
 
 ## 🚀 Sobre mí
 
-Ingeniero de Software con **más de 4 años de experiencia** desarrollando soluciones empresariales tanto en **Backend (.NET / C#)** como en **Frontend (React / Next.js / Vue.js)**. Especializado en construir APIs robustas y escalables, interfaces modernas de alto rendimiento, e integraciones en la nube con **Azure**.
+Ingeniero de Software con **más de 4 años de experiencia** desarrollando soluciones empresariales tanto en **Backend (.NET / C#)** como en **Frontend (React / Next.js / React Native / Vue.js)**. Especializado en construir APIs robustas y escalables, interfaces modernas de alto rendimiento, e integraciones en la nube con **Azure(CI/CD)**.
 
 Apasionado por el clean code, las buenas prácticas de arquitectura y la entrega de software eficiente que genere valor real.
 
 ```text
-Backend   ████████████████████░░  90%
-Frontend  ███████████████████░░░  85%
+Frontend  ████████████████████░░  90%
+Backend   ███████████████████░░░  80%
 Cloud     ██████████████░░░░░░░░  65%
 ```
 
@@ -63,14 +63,13 @@ Cloud     ██████████████░░░░░░░░  65
 ### 🏢 Solvex Dominicana — Ingeniero de Software
 **📅 Abril 2021 – Actualidad · Santo Domingo, R.D.**
 
-Desarrollo de soluciones empresariales full-stack participando en análisis de requisitos, diseño de arquitecturas y construcción de APIs REST e interfaces modernas. Responsable de optimización de rendimiento, implementación de seguridad, automatización de procesos con Azure y gestión de despliegues CI/CD.
+Desarrollo de soluciones empresariales full-stack , participando en análisis de requerimientos, diseño de arquitecturas tales como Onion Architecture , Clean Architecture , Hexagonal Architecture y construcción de APIs REST e interfaces modernas. Responsable de optimización de rendimiento, implementación de seguridad siguiendo las directivas de OWASP , automatización de procesos con Python mediante scripts para pruebas automatizadas y gestión de despliegues CI/CD.
 
 ---
 
 ## 🔥 Proyectos Destacados
 
 ### 🔐 Maturity Level — Security Dashboard
-> **[🔗 Ver proyecto](https://secure-dashboard-dev.azurewebsites.net/)**
 
 Plataforma empresarial de evaluación de madurez en ciberseguridad basada en estándares **NIST y CIS**.
 
@@ -88,7 +87,6 @@ Plataforma empresarial de evaluación de madurez en ciberseguridad basada en est
 ---
 
 ### 📱 Claro Dealers — Tienda DAC
-> **[🔗 Ver proyecto](https://tiendadac.claro.com.do/clarodac/login)**
 
 Portal e-commerce para distribuidores de Claro con gestión de órdenes, descuentos y puntos de entrega.
 
@@ -96,7 +94,7 @@ Portal e-commerce para distribuidores de Claro con gestión de órdenes, descuen
 |------|-------------|
 | Backend | .NET Web API, endpoints REST, lógica de negocio |
 | Frontend | Vue.js, Buefy/Bootstrap, lazy loading |
-| Seguridad | reCAPTCHA, autenticación, autorización, protección de rutas |
+| Seguridad | reCAPTCHA, autenticación, autorización, protección de rutas, migración de versiones |
 
 - ✅ Módulos de descuentos, puntos de entrega y ofertas
 - ✅ Seguridad avanzada: autenticación, control de roles y reCAPTCHA
@@ -126,18 +124,6 @@ Aplicación para kioscos físicos de autoservicio con autenticación biométrica
 | 🎓 Instituto Tecnológico de las Américas (ITLA) | Técnico en Software / Desarrollador de Software | Rep. Dom. |
 | 🏫 Centro Educativo María Inmaculada (CEMI) | Técnico en Informática | Rep. Dom. |
 | 🌐 The English Center | English as a Second Language | Rep. Dom. |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
 ---
 
 <div align="center">

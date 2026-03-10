@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👨‍💻 Héctor Sosa
-### Ingeniero de Software · Backend & Frontend
+### Ingeniero de Software · Full Stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/hector-j-sosa-a81a6321b/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hectorsosa931@gmail.com)
@@ -13,9 +13,14 @@
 
 ## 🚀 Sobre mí
 
-Ingeniero de Software con **más de 4 años de experiencia** desarrollando soluciones empresariales tanto en **Backend (.NET / C#)** como en **Frontend (React / Next.js / React Native / Vue.js)**. Especializado en construir APIs robustas y escalables, interfaces modernas de alto rendimiento, e integraciones en la nube con **Azure(CI/CD)**.
+Ingeniero de Software con **multiples años de experiencia** desarrollando soluciones empresariales tanto en **Backend (.NET / C#)** como en **Frontend (React / Next.js / React Native / Vue.js)**.
 
-Apasionado por el clean code, las buenas prácticas de arquitectura y la entrega de software eficiente que genere valor real.
+Experiencia con integraciones de APIs , contrucción de diseños modernos.
+Apasionado por el Clean Code , principios SOLID , buenas prácticas de arquitectura y la entrega de software eficiente que genere valor real.
+Experiencia intermedia de ciencia de datos con Python utilizando Numpy , Pandas y Power BI implementando NLP , Random Forest , PCA , Deep Learning y Supervised Learning , Web Scraping.
+Frameworks utilizados tales como FastAPI , Flask , Django.
+Code First - Entity Framework 
+
 
 ```text
 Frontend  ████████████████████░░  90%
@@ -102,7 +107,7 @@ Portal e-commerce para distribuidores de Claro con gestión de órdenes, descuen
 
 ---
 
-### 🏧 AFP Siembra Kiosk
+###  AFP Siembra Kiosk
 Aplicación para kioscos físicos de autoservicio con autenticación biométrica.
 
 | Área | Tecnologías |

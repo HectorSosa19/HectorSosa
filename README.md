@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👨‍💻 Héctor Sosa
-### Ingeniero de Software · Full Stack Developer
+### Software Engineer · Full Stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hector-j-sosa-a81a6321b/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hectorsosa931@gmail.com)
@@ -11,16 +11,15 @@
 
 ---
 
-## 🚀 Sobre mí
+## 🚀 About Me
 
-Ingeniero de Software con **multiples años de experiencia** desarrollando soluciones empresariales tanto en **Backend (.NET / C#)** como en **Frontend (React / Next.js / React Native / Vue.js)**.
+Software Engineer with **several years of experience** building enterprise solutions across both **Backend (.NET / C#)** and **Frontend (React / Next.js / React Native / Vue.js)**.
 
-Experiencia con integraciones de APIs , contrucción de diseños modernos.
-Apasionado por el Clean Code , principios SOLID , buenas prácticas de arquitectura y la entrega de software eficiente que genere valor real.
-Experiencia intermedia de ciencia de datos con Python utilizando Numpy , Pandas y Power BI implementando NLP , Random Forest , PCA , Deep Learning y Supervised Learning , Web Scraping.
-Frameworks utilizados tales como FastAPI , Flask , Django.
-Code First - Entity Framework 
-
+Experienced in API integrations and building modern UI designs.
+Passionate about Clean Code, SOLID principles, sound architectural practices, and delivering efficient software that creates real value.
+Intermediate-level data science background with Python using NumPy, Pandas, and Power BI — implementing NLP, Random Forest, PCA, Deep Learning, and Supervised Learning, as well as Web Scraping.
+Frameworks used include FastAPI, Flask, and Django.
+Code First — Entity Framework.
 
 ```text
 Frontend  ████████████████████░░  90%
@@ -30,7 +29,7 @@ Cloud     ██████████████░░░░░░░░  65
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Tech Stack
 
 ### Backend
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -48,13 +47,13 @@ Cloud     ██████████████░░░░░░░░  65
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### UI & Estado
+### UI & State Management
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-### Herramientas & DevOps
+### Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
@@ -63,79 +62,79 @@ Cloud     ██████████████░░░░░░░░  65
 
 ---
 
-## 💼 Experiencia Profesional
+## 💼 Professional Experience
 
-### 🏢 Solvex Dominicana — Ingeniero de Software
-**📅 Abril 2021 – Actualidad · Santo Domingo, R.D.**
+### 🏢 Solvex Dominicana — Software Engineer
+**📅 April 2021 – Present · Santo Domingo, D.R.**
 
-Desarrollo de soluciones empresariales full-stack , participando en análisis de requerimientos, diseño de arquitecturas tales como Onion Architecture , Clean Architecture , Hexagonal Architecture y construcción de APIs REST e interfaces modernas. Responsable de optimización de rendimiento, implementación de seguridad siguiendo las directivas de OWASP , automatización de procesos con Python mediante scripts para pruebas automatizadas y gestión de despliegues CI/CD.
+Full-stack enterprise development, involved in requirements analysis, architecture design (Onion Architecture, Clean Architecture, Hexagonal Architecture), REST API development, and modern UI implementation. Responsible for performance optimization, security implementation following OWASP guidelines, test automation scripting with Python, and CI/CD deployment management.
 
 ---
 
-## 🔥 Proyectos Destacados
+## 🔥 Featured Projects
 
 ### 🔐 Maturity Level — Security Dashboard
 
-Plataforma empresarial de evaluación de madurez en ciberseguridad basada en estándares **NIST y CIS**.
+Enterprise cybersecurity maturity assessment platform based on **NIST and CIS** standards.
 
-| Área | Tecnologías |
+| Area | Technologies |
 |------|-------------|
 | Backend | .NET Web API, Azure AD, SQL Server |
-| Frontend | Next.js, Azure AD B2C, componentes modulares |
-| Cloud | Azure Functions, Timer Trigger, Web Scraping automatizado |
+| Frontend | Next.js, Azure AD B2C, modular components |
+| Cloud | Azure Functions, Timer Trigger, Automated Web Scraping |
 
-- ✅ APIs y servicios REST con integración Azure AD
-- ✅ Dashboards interactivos con evaluaciones de controles de seguridad
-- ✅ Automatización de reportes diarios de vulnerabilidades con Azure Functions
-- ✅ Optimización de consultas SQL y performance de carga de datos
+- ✅ REST APIs and services with Azure AD integration
+- ✅ Interactive dashboards with security control assessments
+- ✅ Daily vulnerability report automation with Azure Functions
+- ✅ SQL query optimization and data load performance improvements
 
 ---
 
-### 📱 Claro Dealers — Tienda DAC
+### 📱 Claro Dealers — DAC Store
 
-Portal e-commerce para distribuidores de Claro con gestión de órdenes, descuentos y puntos de entrega.
+E-commerce portal for Claro distributors with order management, discounts, and delivery point handling.
 
-| Área | Tecnologías |
+| Area | Technologies |
 |------|-------------|
-| Backend | .NET Web API, endpoints REST, lógica de negocio |
+| Backend | .NET Web API, REST endpoints, business logic |
 | Frontend | Vue.js, Buefy/Bootstrap, lazy loading |
-| Seguridad | reCAPTCHA, autenticación, autorización, protección de rutas, migración de versiones |
+| Security | reCAPTCHA, authentication, authorization, route protection, version migration |
 
-- ✅ Módulos de descuentos, puntos de entrega y ofertas
-- ✅ Seguridad avanzada: autenticación, control de roles y reCAPTCHA
-- ✅ Optimización de performance mediante lazy loading y refactorización
+- ✅ Discount modules, delivery points, and promotional offers
+- ✅ Advanced security: authentication, role control, and reCAPTCHA
+- ✅ Performance optimization through lazy loading and refactoring
 
 ---
 
-###  AFP Siembra Kiosk
-Aplicación para kioscos físicos de autoservicio con autenticación biométrica.
+### AFP Siembra Kiosk
+Self-service application for physical kiosk terminals with biometric authentication.
 
-| Área | Tecnologías |
+| Area | Technologies |
 |------|-------------|
-| Backend | .NET, gestión de dispositivos (GUID), autenticación biométrica |
-| Frontend | Next.js, Framer Motion, Redux, pantallas táctiles |
+| Backend | .NET, device management (GUID), biometric authentication |
+| Frontend | Next.js, Framer Motion, Redux, touch screens |
 
-- ✅ Interfaz altamente interactiva con animaciones en Framer Motion
-- ✅ Integración con autenticación biométrica y gestión de GUID
-- ✅ Optimización para alto tráfico y entornos de kiosko
+- ✅ Highly interactive interface with Framer Motion animations
+- ✅ Biometric authentication integration and GUID management
+- ✅ Optimized for high-traffic kiosk environments
 
 ---
 
-## 🎓 Educación
+## 🎓 Education
 
-| Institución | Título | País |
-|-------------|--------|------|
-| 🎓 Universidad Iberoamericana (UNIBE) | Ingeniería en Tecnologías Computacionales | Rep. Dom. |
-| 🎓 Instituto Tecnológico de las Américas (ITLA) | Técnico en Software / Desarrollador de Software | Rep. Dom. |
-| 🏫 Centro Educativo María Inmaculada (CEMI) | Técnico en Informática | Rep. Dom. |
-| 🌐 The English Center | English as a Second Language | Rep. Dom. |
+| Institution | Degree | Country |
+|-------------|--------|---------|
+| 🎓 Universidad Iberoamericana (UNIBE) | B.S. in Computer Technologies Engineering | Dom. Rep. |
+| 🎓 Instituto Tecnológico de las Américas (ITLA) | Software Technician / Software Developer | Dom. Rep. |
+| 🏫 Centro Educativo María Inmaculada (CEMI) | IT Technician | Dom. Rep. |
+| 🌐 The English Center | English as a Second Language | Dom. Rep. |
+
 ---
 
 <div align="center">
 
-**💡 Siempre aprendiendo · Siempre construyendo**
+**💡 Always learning · Always building**
 
-*Santo Domingo, República Dominicana 🇩🇴*
+*Santo Domingo, Dominican Republic 🇩🇴*
 
 </div>
-
